@@ -1,0 +1,12 @@
+#particles-js{
+  //background-color: firebrick; **angry=firebrick, joy=#3b94c6**
+  background-size: cover;
+}
+
+body {
+  margin: auto;
+}
+
+div {
+  display: block;
+}
